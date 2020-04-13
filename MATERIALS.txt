@@ -1,0 +1,20 @@
+4k Labor for this project
+
+Alex Gloria (AL GLO, Sa tabi ng Overpass sa Raon Quiapo):
+4in1 LED Matrix MAX7219 with I2C (if wala sa AL GLO, sa EGIZMO) - P250
+DHT11 - P160
+Arduino Nano - P200
+DFPlayer Module - P500
+SD Card (for audio files) - P200
+9V 2A Adapter - P150
+RTC DS3231
+Female to Female Jumper Wires - P100
+
+Deeco or AL GLO:
+4x6 PCB, Ferric, Developer - P300
+Housing/Case - P200
+PAM8403 (Audio Amplifier ito) - P100
+Speaker (kahit pipichugin lang) - P300?
+
+------------------------------
+P2,500 Estimation
